@@ -18,7 +18,7 @@ The following softwares are required to run Print Vowel. The assembler and simul
 
 ### Install and Use
 
-**To use Print Vowel make sure you install the required pieces described in the previous section. **
+To use Print Vowel make sure you install the required pieces described in the previous section.
 
 * The last piece you need is the file letters.asm which is located in the github repository [here](https://github.com/KaylaFriend/PrintVowel.git).
 
