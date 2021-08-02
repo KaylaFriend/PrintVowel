@@ -22,7 +22,13 @@ To use Print Vowel, you will need to open letters.asm in the assembler. Then you
 
 ### Troubleshooting
 
+* The assembler will not assemble the file.
 
+More than likely the original letters.asm file has a small adjustment that has been accidentally made. The assembler will give you a line that the error occured on, so check and see if there is any stray letters or marks in the file. 
+
+* The line of the error that the assembler provides is not wrong.
+
+This happens sometimes. Check the line that the assembler provides and the lines above and below it for errors. 
 
 ### Support or Contact
 
