@@ -8,17 +8,17 @@ Print Vowel is an assembly language program that takes user input and prints the
 
 ### Software Needed
 
-The following software is required to run Print Vowels. The assembler and simulator can be downloaded from the github repository [here]().
+The following software is required to run Print Vowel. The assembler and simulator can be downloaded from the github repository [here](https://github.com/KaylaFriend/PrintVowel.git).
 
 * A [java runtime environment](https://www.java.com/en/download/windows_manual.jsp?locale=en) (JRE)
 * The LC-3 assembler
 * The LC-3 simulator
 
-### Install
+### Install and Use
 
+To use Print Vowel make sure you install the required pieces described in the previous section. The last piece you need is the file letters.asm which is located in the github repository [here](https://github.com/KaylaFriend/PrintVowel.git).
 
-### FAQ
-
+To use Print Vowel, you will need to open letters.asm in the assembler. Then you will click "reload and assemble." When you assemble the letters.asm file, it will create a new file called letters.hex. Next you will open the simulator and locate the file button in the top left corner. Click open and choose the letters.hex file. Now the simulator is loaded with letters.hex, so you can click the "continue" button in the bottom right corner. At this point the program should be running and you can type your input. When you have typed all that you want to, you just have to hit the enter button. Now your output should be displayed.
 
 ### Troubleshooting
 
@@ -26,6 +26,4 @@ The following software is required to run Print Vowels. The assembler and simula
 
 ### Support or Contact
 
-
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have any suggestions or difficulties with the program, please contact me at friendka@appstate.edu. I will get back to you as soon as I can and we will get the issue resolved :)
