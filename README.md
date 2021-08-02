@@ -4,15 +4,17 @@
 
 ### What is Print Vowel?
 
-Print Vowel is an assembly language program that takes user input and prints the vowels. Any letters other than vowels will be printed as underscores. It uses the LC-3 instruction set architecture (ISA) and assembly language. 
+Print Vowel is an assembly language program that takes user input and prints the vowels. The simulator will take the input and print a series of vowels and underscores in place of consonants. It uses the LC-3 instruction set architecture (ISA) and assembly language to do this. 
 
 ### Software Needed
 
-The following software is required to run Print Vowel. The assembler and simulator can be downloaded from the github repository [here](https://github.com/KaylaFriend/PrintVowel.git).
+The following softwares are required to run Print Vowel. The assembler and simulator can be downloaded from the github repository [here](https://github.com/KaylaFriend/PrintVowel.git).
 
 * A [java runtime environment](https://www.java.com/en/download/windows_manual.jsp?locale=en) (JRE)
 * The LC-3 assembler
+![assembler](Screenshot (56).png)
 * The LC-3 simulator
+![simulator](Screenshot (57).png)
 
 ### Install and Use
 
