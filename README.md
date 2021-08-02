@@ -16,9 +16,22 @@ The following software is required to run Print Vowel. The assembler and simulat
 
 ### Install and Use
 
-To use Print Vowel make sure you install the required pieces described in the previous section. The last piece you need is the file letters.asm which is located in the github repository [here](https://github.com/KaylaFriend/PrintVowel.git).
+**To use Print Vowel make sure you install the required pieces described in the previous section. **
 
-To use Print Vowel, you will need to open letters.asm in the assembler. Then you will click "reload and assemble." When you assemble the letters.asm file, it will create a new file called letters.hex. Next you will open the simulator and locate the file button in the top left corner. Click open and choose the letters.hex file. Now the simulator is loaded with letters.hex, so you can click the "continue" button in the bottom right corner. At this point the program should be running and you can type your input. When you have typed all that you want to, you just have to hit the enter button. Now your output should be displayed.
+* The last piece you need is the file letters.asm which is located in the github repository [here](https://github.com/KaylaFriend/PrintVowel.git).
+
+* To use Print Vowel, you will need to open letters.asm in the assembler. 
+
+* Then you will click "reload and assemble." When you assemble the letters.asm file, it will create a new file called letters.hex. 
+
+* Next you will open the simulator and locate the file button in the top left corner. Click open and choose the letters.hex file. 
+
+* Now the simulator is loaded with letters.hex, so you can click the "continue" button in the bottom right corner. 
+
+* At this point the program should be running and you can type your input.
+ 
+* When you have typed all that you want to, you just have to hit the enter button. Now your output should be displayed.
+
 
 ### Troubleshooting
 
